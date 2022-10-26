@@ -1,6 +1,6 @@
 {
-  "name": "typescript-config-redlotus",
-  "version": "0.0.1",
+  "name": "@redlotus/typescript-config",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {

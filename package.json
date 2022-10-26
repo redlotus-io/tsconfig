@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tomimarkus991/typescript-config-redlotus/issues"
   },
-  "homepage": "https://github.com/tomimarkus991/typescript-config-redlotus#readme"
+  "homepage": "https://github.com/tomimarkus991/typescript-config-redlotus#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }

@@ -1,5 +1,5 @@
 {
-  "name": "@redlotus/typescript-config",
+  "name": "@redlotus/tsconfig",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",

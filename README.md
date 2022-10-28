@@ -11,11 +11,11 @@ Package to standardize tsconfig across all your projects. **Get a super boost to
 
 ## If you are using react
 
-add `"extends": "typescript-config-redlotus/react/tsconfig.json"` to your tsconfig.json
+add `"extends": "@redlotus/typescript-config/react/tsconfig.json"` to your tsconfig.json
 
 ## If you are using just typescript, or want to create an api use
 
-add `"extends": "typescript-config-redlotus/base/tsconfig.json"` to your tsconfig.json
+add `"extends": "@redlotus/typescript-config/base/tsconfig.json"` to your tsconfig.json
 
 ---
 

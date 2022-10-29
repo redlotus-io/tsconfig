@@ -5,17 +5,17 @@ Package to standardize tsconfig across all your projects. **Get a super boost to
 
 ## Quickstart
     
-    npm i -D @redlotus/typescript-config
+    npm i -D @redlotus/tsconfig
     
-    yarn add -D @redlotus/typescript-config
+    yarn add -D @redlotus/tsconfig
 
 ## If you are using react
 
-add `"extends": "@redlotus/typescript-config/react/tsconfig.json"` to your tsconfig.json
+add `"extends": "@redlotus/tsconfig/react/tsconfig.json"` to your tsconfig.json
 
 ## If you are using just typescript, or want to create an api use
 
-add `"extends": "@redlotus/typescript-config/base/tsconfig.json"` to your tsconfig.json
+add `"extends": "@redlotus/tsconfig/base/tsconfig.json"` to your tsconfig.json
 
 ---
 

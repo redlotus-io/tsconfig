@@ -1,8 +1,12 @@
 name: release-package
+# on:
+#   create:
+#     tags:
+#       - "*"
 on:
-  create:
-    tags:
-      - "*"
+  push:
+    branches:
+      - "main"
 jobs:
   publish-packages:
     runs-on: ubuntu-latest
